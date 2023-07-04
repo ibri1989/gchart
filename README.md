@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
