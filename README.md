@@ -1,1 +1,1 @@
-Update CI.md with CI links (#8786)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
