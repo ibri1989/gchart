@@ -1,1 +1,1 @@
-Embed videos in Docs pages using Parent pages for relevant segments (#6877)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
